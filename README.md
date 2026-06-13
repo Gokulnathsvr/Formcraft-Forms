@@ -8,13 +8,6 @@ Welcome to the **Formcraft Forms** repository! This project serves as a centrali
 * **Structured Interfaces:** To maintain strict adherence to optimal desktop UI conventions, ensuring forms are accessible, readable, and visually balanced.
 * **Scalable Assets:** To offer a modular repository of form components that can be easily adapted from initial storyboard concepts into fully developed frontend code.
 
-## 📂 Repository Contents
-*(Note: Adjust these placeholders to match your exact file names)*
-
-### 📐 UI Designs & Layouts
-* **`Desktop-Form-View.png` / `.jpg`**: Primary mid-fidelity UI screens demonstrating the form's structural layout in a standard desktop environment.
-* **`Form-Storyboard.png`**: Landscape-oriented conceptual flows outlining the user journey from form initiation to submission, maintaining a clear visual narrative.
-
 ### 💻 Source Code & Implementation
 * **`index.html`**: The core structural markup for the form templates.
 * **`/css/`**: Stylesheets ensuring the form elements align with the overarching visual identity, including input states, spacing, and typography.
